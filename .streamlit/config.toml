@@ -1,0 +1,4 @@
+[server]
+# Reexecuta a aplicação sempre que um arquivo do projeto for salvo.
+runOnSave = true
+fileWatcherType = "auto"

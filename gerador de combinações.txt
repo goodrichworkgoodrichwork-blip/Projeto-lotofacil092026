@@ -1,0 +1,30 @@
+gerador de combinações 
+desenvolvido em python, utilizando streamlit, pandas, numpy, random.
+projeto é baseado no script app_v.03.1.py,
+todo código deve ser comentado para fim de aprendizado.
+
+carrega arquivo excel com soteios anteriores a implementação deve ser semelhante a do script app_v.03.1.py 
+
+gera combinações
+	o usuário pode escolher via interface 	do streamlit a quantidade de    	números das combinações geradas, entre 	15 e 20 números dentre os 25 	disponíveis, 	caso o usuário não 	escolher quantidade de 	dezenas será 	gerado combinação padrão com 15 dezenas
+
+quantidade de pares
+	de 6 a 8 pares
+quantidade de números de sorteios anteriores
+	a quantidade de dezenas do sorteio 	anterior são 9, caso o usuário não 	optar nenhuma quantidade
+	
+quantidade impares
+	segue regra dos pares
+
+quantidade de primos
+	a quantidade de primos deve ser entre 4 e 7 primos 
+
+quantidade de Fibonacci
+	a quantide de Fibonacci deve ser de 3 a 6 dezenas
+
+a soma da dezenas das cobinaçãoes geradas deve ficar entre 170 a 221
+
+números múltiplos de três 
+	os números múltiplos de três deve ser de 3 a 6 numeros
+
+não gerar combinaçãoes que já foram sorteadas
